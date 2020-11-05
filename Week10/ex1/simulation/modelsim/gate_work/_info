@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Andrey/Desktop/FPGA/Week10/ex1/simulation/modelsim
+vex1
+!s110 1604594324
+!i10b 1
+!s100 931^aP<11M;occ:=2D_8=3
+Ie6JR=NeoeMX^5aS9FDX2g0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604594188
+8C:/Users/Andrey/Desktop/FPGA/Week10/ex1/ex1.v
+FC:/Users/Andrey/Desktop/FPGA/Week10/ex1/ex1.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1604594323.000000
+!s107 C:/Users/Andrey/Desktop/FPGA/Week10/ex1/ex1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week10/ex1|C:/Users/Andrey/Desktop/FPGA/Week10/ex1/ex1.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/Andrey/Desktop/FPGA/Week10/ex1
+Z5 tCvgOpt 0
+vhard_block
+!s110 1604594322
+!i10b 1
+!s100 9YRF0XiF85;T6Z8:LPLDf0
+IIliRR^147f[gFBWH^]?^10
+R1
+R0
+w1604594312
+8ex1.vo
+Fex1.vo
+L0 264
+R2
+r1
+!s85 0
+31
+!s108 1604594321.000000
+!s107 ex1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+.
+R5
+vtestbench
+!s110 1604594323
+!i10b 1
+!s100 :e[11B82E7K^P85Uf1>N?1
+IT]<S:kiPXQiIV0QNW89Hl2
+R1
+R0
+w1604594228
+8C:/Users/Andrey/Desktop/FPGA/Week10/ex1/testbench.v
+FC:/Users/Andrey/Desktop/FPGA/Week10/ex1/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1604594322.000000
+!s107 C:/Users/Andrey/Desktop/FPGA/Week10/ex1/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week10/ex1|C:/Users/Andrey/Desktop/FPGA/Week10/ex1/testbench.v|
+!i113 1
+R3
+R4
+R5
