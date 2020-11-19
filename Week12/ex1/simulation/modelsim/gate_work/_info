@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Andrey/Desktop/FPGA/Week12/ex1/simulation/modelsim
+vadd
+Z1 !s110 1605798270
+!i10b 1
+!s100 nm8]4bLJ`Lgc]eQY4k8;C3
+IHHWDI>=V3eWUH=IP>1oic1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1605797398
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/add.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/add.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1605798270.000000
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/add.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1
+Z7 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 OmHbZoSQKd5SiWWiIf>=k2
+Ig:4_`nQY>KHHeF69Mj@Nh3
+R2
+R0
+w1605797661
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu.v|
+!i113 1
+R5
+R6
+R7
+valu_testbench
+Z8 !s110 1605798271
+!i10b 1
+!s100 l4FjVYJ]6i;?5^]@S9Mio0
+IZnjMmG>lBa:l?mQ^[b2IY0
+R2
+R0
+w1605795938
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu_testbench.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1605798271.000000
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/alu_testbench.v|
+!i113 1
+R5
+R6
+R7
+vglob
+R8
+!i10b 1
+!s100 b0ABYh7ijRe29?XHF8:fE2
+IMcTfAZ8PG>1D15FWlk7b_0
+R2
+R0
+w1605787229
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/glob.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/glob.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/glob.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/glob.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 Sl8`:`dZ`dIn6`WY83jg`0
+I60PY3KY=_IHSGc5nKR[dH1
+R2
+R0
+w1605798263
+8alu.vo
+Falu.vo
+L0 532
+R3
+r1
+!s85 0
+31
+R4
+!s107 alu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|alu.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vmux
+R8
+!i10b 1
+!s100 E2DMWNF56E5R90K>>@5i@0
+IIRUBKhfbE^UD5B2_5hKf93
+R2
+R0
+w1605797437
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/mux.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/mux.v|
+!i113 1
+R5
+R6
+R7
+vsrl
+R1
+!i10b 1
+!s100 KiLo43j;e=;D7<3C]_n;P2
+ITS`P6j=7M[?BWD4B9P:Qn0
+R2
+R0
+w1605797424
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/srl.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/srl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/srl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/srl.v|
+!i113 1
+R5
+R6
+R7
+vsub
+R1
+!i10b 1
+!s100 n1A1ST:>LR;j[MGJKVN0l2
+IPdCIX7z[==eESHiPm?=<:0
+R2
+R0
+w1605797415
+8C:/Users/Andrey/Desktop/FPGA/Week12/ex1/sub.v
+FC:/Users/Andrey/Desktop/FPGA/Week12/ex1/sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Andrey/Desktop/FPGA/Week12/ex1/sub.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Andrey/Desktop/FPGA/Week12/ex1|C:/Users/Andrey/Desktop/FPGA/Week12/ex1/sub.v|
+!i113 1
+R5
+R6
+R7
